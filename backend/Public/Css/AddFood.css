@@ -1,0 +1,12 @@
+.mainArea{
+    display: flex;
+    width: 60vw;
+    flex-direction: column;
+    margin-top: 10rem;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.form-floating{
+    margin-bottom: 2rem;
+}

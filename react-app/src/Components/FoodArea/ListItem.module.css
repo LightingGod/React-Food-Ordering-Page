@@ -1,0 +1,54 @@
+.listContainer{
+    margin-bottom: 1rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 2px solid red;
+}
+
+.name {
+    font-weight: bolder;
+}
+  
+.description {
+    font-style: italic;
+}
+  
+.price {
+    margin-top: 0.25rem;
+    font-weight: bold;
+    color: #ad5502;
+    font-size: 1.25rem;
+}
+
+.mymargin{
+    margin-right: 12px;
+}
+
+.myinput{
+    width: 2.3rem;
+    border-color: #0e0c0c8a;
+    border-radius: 4px;
+    padding: 2px;
+}
+
+.container2{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.mybutton{
+    padding: 10px 20px;
+    border-radius: 20px;
+    background-color: #8a2b06;
+    color: white;
+    font-weight: bold;
+    margin-top: 6px;
+    border: none;
+}
+
+.mybutton:hover{
+    background-color: #611e03;
+}
